@@ -21,7 +21,9 @@ body {
     height: 100vh;
     height: 100svh;
     font-family: 'Poppins', sans-serif;
+     cursor: url('./pencil_vector_resource__free__by.png'), auto; 
 }
+
 
 main {
     background-color: var(--primary-color);

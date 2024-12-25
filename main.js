@@ -108,4 +108,5 @@ function handleCheckTodo(key) {
 function handleDeleteTodo(key) {
     delete todoList[key];
     renderTodos();
+    
 }
